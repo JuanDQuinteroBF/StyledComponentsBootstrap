@@ -1,0 +1,16 @@
+export interface MarginPadding {
+    m?: number,
+    mx?: number,
+    my?: number,
+    mb?: number,
+    mt?: number,
+    mr?: number,
+    ml?: number,
+    p?: number,
+    px?: number,
+    py?: number,
+    pb?: number,
+    pt?: number,
+    pr?: number,
+    pl?: number,
+  }
